@@ -1,7 +1,7 @@
 <html lang="en">
   <head></head>
-  <body style="margin:0 auto;background-color:#000;color:#fff;font-family:monospace">
-<h1>Nurmat Junusov</h1>
+  <body>
+<h1>Aloha everyone!</h1>
 <p>I'm Nurmat, Senior Software Engineer with 9+ years experience from Bishkek, Kyrgyzstan. <br>Mostly I work with native mobile app development for both Android and iOS. <br>During project development I follow all principles of the Clean Architecture and the recent app trends. </p>
 
 <h2>Skills and Experience</h2>
