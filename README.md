@@ -1,3 +1,6 @@
+<html lang="en">
+  <head></head>
+  <body style="margin:0 auto;background-color:#000;color:#fff;font-family:monospace">
 <h1>Nurmat Junusov</h1>
 <p>I'm Nurmat, Senior Software Engineer with 9+ years experience from Bishkek, Kyrgyzstan. <br>Mostly I work with native mobile app development for both Android and iOS. <br>During project development I follow all principles of the Clean Architecture and the recent app trends. </p>
 
@@ -30,3 +33,4 @@
   <li><a href="https://www.linkedin.com/in/nurmat-j-a03b1758/">LinkedIn Profile</a></li>
   <li><a href="https://t.me/joshbek">Telegram</a></li>
 </ul>
+    </body>
