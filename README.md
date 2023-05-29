@@ -2,7 +2,7 @@
   <head></head>
   <body>
 <h1>Aloha everyone!</h1>
-<p>I'm Nurmat, Senior Software Engineer with 9+ years experience from Bishkek, Kyrgyzstan. <br>Mostly I work with native mobile app development for both Android and iOS. <br>During project development I follow all principles of the Clean Architecture and the recent app trends. </p>
+<p>I'm Nurmat, Senior Software Engineer with 9+ years experience from Bishkek, Kyrgyzstan. <br>Mostly I work with native mobile app development for both Android and iOS. <br>During project development I follow all principles of the Clean Architecture and the recent app trends. <br>I'm open and excited on collaboration on interesting and innovative projects.</p>
 
 <h2>Skills and Experience</h2>
 <h5>Android</h5>
