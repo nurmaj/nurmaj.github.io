@@ -9,7 +9,7 @@
 <ul>
   <li>Kotlin, Java</li>
   <li>Jetpack Compose, XML Layouts, NavGraph</li>
-  <li>Room, Retrofit, GraphQL</li>
+  <li>Room, Retrofit, GraphQL, Dagger-hilt</li>
 </ul>
 <h5>iOS</h5>
 <ul>
