@@ -29,8 +29,9 @@
 <h2>Contacts</h2>
 <ul>
   <li><a href="mailto:nurma131@gmail.com">nurma131@gmail.com</a></li>
-  <li><a href="tel:+996705601109">+996 (705) 601-109</a></li>
+  <li><a href="tel:+996552414221">+996 (552) 414-221</a></li>
   <li><a href="https://www.linkedin.com/in/nurmat-j-a03b1758/">LinkedIn Profile</a></li>
+  <li><a href="https://wa.me/+996552414221">WhatsApp</a></li>
   <li><a href="https://t.me/joshbek">Telegram</a></li>
 </ul>
     </body>
